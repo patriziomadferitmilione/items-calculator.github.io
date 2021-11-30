@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+
+body {
+  background-color: blue;
+  font-family: "Press Start 2P", cursive;
+}
+
+input {
+  font-family: "Press Start 2P", cursive;
+}
+
+.items {
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.hours {
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.mean {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.mean button {
+  font-family: "Press Start 2P", cursive;
+  font-size: 4vh;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  background-color: green;
+}
